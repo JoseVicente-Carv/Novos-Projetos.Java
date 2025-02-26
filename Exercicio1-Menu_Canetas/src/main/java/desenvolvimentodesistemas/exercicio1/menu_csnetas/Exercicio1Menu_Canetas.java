@@ -7,7 +7,7 @@ package desenvolvimentodesistemas.exercicio1.menu_csnetas;
 import java.util.Scanner;
 
 /**
- *
+ * @Date 26/02/2025
  * @author aluno.den
  */
 public class Exercicio1Menu_Canetas {
