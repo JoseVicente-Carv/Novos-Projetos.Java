@@ -1,0 +1,39 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package desenvolvimento_de_sistemas.mavenproject1;
+
+import java.util.Scanner;
+
+/**
+ * @Date 14/03/2025
+ * @author aluno.den
+ */
+
+public class Mavenproject1 {
+
+    public static void main(String[] args) {
+        
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.print("Informe o numerador: ");
+        int numerador = sc.nextInt();
+        
+        System.out.print("Informe o demonidador: ");
+        int denominador = sc.nextInt();
+        
+        try {
+            int resultado = numerador / denominador;
+            System.out.println("O resultado da operação é: " + resultado);
+        } catch (ArithmeticException e) {
+            System.out.println("Erro: divisão por zero não pode ocorrer.");
+        } catch (Exception e) {
+            System.out.println("Erro inesperado" + e.getMessage());
+        } finally {
+            System.out.println("Finalizando...");
+        }
+                
+        System.out.println("\n\tTarefa Concluída!");
+    }
+}
