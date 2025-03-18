@@ -17,6 +17,10 @@ public class Exercicio14Menu_Calculadora {
         apresente um menu com as operações básicas (soma, subtração, multiplicação e divisão). 
         O usuário deve informar dois números e escolher a operação desejada. 
         O programa deve continuar rodando até que o usuário escolha sair. */
+
+        /*O que falta colocar no codigo:
+        texto na pergunta da opção de equação ou sair
+        exibir o resultado da equação*/
         
         Scanner painel = new Scanner(System.in);
 
