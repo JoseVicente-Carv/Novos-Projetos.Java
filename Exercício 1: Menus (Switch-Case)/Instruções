@@ -1,4 +1,4 @@
-https://classroom.google.com/c/NzQyMjEwODg2Mjcw/a/Njg4Njg3MzgzMjU3/details 
+https://classroom.google.com/c/NzQyMjEwODg2Mjcw/a/Njg4Njg3MzgzMjU3/details
 
 Exercício 1: Menus (Switch-Case)
 
@@ -8,27 +8,27 @@ O usuário poderá escolher entre três opções: caixa de papelão, sacola plá
 O programa deve exibir uma breve descrição da embalagem escolhida. O menu deve se repetir até que o usuário selecione a opção de sair.
 
 Descrições:
-Caixa de papelão: Ideal para transporte e armazenamento
-Sacola plástica: Leve e prática, mas pouco sustentável
-Embalagem de vidro: Resistente e reutilizável
+    Caixa de papelão: Ideal para transporte e armazenamento
+    Sacola plástica: Leve e prática, mas pouco sustentável
+    Embalagem de vidro: Resistente e reutilizável
 
 2-Menu de Canetas
 Implemente um programa em Java que exiba um menu com três tipos de canetas: esferográfica, gel e tinteiro. 
 Ao escolher uma opção, o programa deve apresentar uma descrição sobre a caneta selecionada. O menu deve continuar sendo exibido até que o usuário escolha sair.
 
 Descrições:
-Caneta Esferográfica: Econômica e de longa duração
-Caneta Gel: Tinta mais pigmentada e escrita suave
-Caneta Tinteiro: Clássica e elegante, usada para caligrafia
+    Caneta Esferográfica: Econômica e de longa duração
+    Caneta Gel: Tinta mais pigmentada e escrita suave
+    Caneta Tinteiro: Clássica e elegante, usada para caligrafia
 
 3-Menu de Mochilas
 Desenvolva um programa em Java que apresente um menu com três tipos de mochilas: escolar, de viagem e esportiva. 
 O programa deve exibir informações sobre a mochila escolhida e permitir que o usuário continue explorando as opções até que decida encerrar o programa.
 
 Descrições:
-Mochila Escolar: Compacta e ideal para estudantes
-Mochila de Viagem: Espaçosa, ideal para longas jornadas
-Mochila Esportiva: Leve, resistente e ergonômica
+    Mochila Escolar: Compacta e ideal para estudantes
+    Mochila de Viagem: Espaçosa, ideal para longas jornadas
+    Mochila Esportiva: Leve, resistente e ergonômica
 
 4-Calculadora
 Desenvolva um programa que apresente um menu com as operações básicas (soma, subtração, multiplicação e divisão). 
