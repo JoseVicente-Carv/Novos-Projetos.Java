@@ -1,0 +1,7 @@
+Exercícios 2: Laço de Repetição_FOR
+
+https://classroom.google.com/c/NzQyMjEwODg2Mjcw/a/NzUwMTcyMzE2ODc2/details 
+
+1 - Faça um programa que exiba os números ímpares de 1 a 51 e os pares de 52 a 100.
+2 - Escreva um número que imprima na tela a tabuada de todos os números de 1 a 10.
+3 - Crie um programa que solicite ao usuário um número e exiba a tabuada desse número utilizando um laço de repetição.
